@@ -13,15 +13,18 @@
 ## Tecnologias
 <div>
   <p>
-    Desenvolvimento Desktop:
+    <strong>Desenvolvimento Desktop:</strong>
+    <br>
     [Delphi]
   </p>
   <p>
-    Desenvolvimento Web Front-end:
+    <strong>Desenvolvimento Web Front-end:</strong>
+    <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
   </p>
   <p>
-    Desenvolvimento Web Back-end
+    <strong>Desenvolvimento Web Back-end:</strong>
+    <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   </p>
 </div>
