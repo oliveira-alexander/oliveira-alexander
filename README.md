@@ -8,9 +8,7 @@
 </p>
 
 ## Estatísticas do GitHub
-<p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira-alexander&layout=donut-vertical&bg_color=00000000&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-</p>
 
 ## Tecnologias
 <div>
