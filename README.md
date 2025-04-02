@@ -17,3 +17,8 @@
    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
  
 </div>
+
+## Contato:
+<div>
+  <a src="https://www.linkedin.com/in/alexanderwoliveira/"> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /> </a>
+</div>
