@@ -12,7 +12,18 @@
 
 ## Tecnologias
 <div>
-   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+  <p>
+    Desenvolvimento Desktop:
+    [Delphi]
+  </p>
+  <p>
+    Desenvolvimento Web Front-end:
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+  </p>
+  <p>
+    Desenvolvimento Web Back-end
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  </p>
 </div>
 
 <!--## Projetos
