@@ -12,8 +12,7 @@
 
 ## Tecnologias
 <div>
-   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-   <!-- Adicione mais ícones conforme necessário -->
+   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
 </div>
 
 <!--## Projetos
@@ -21,17 +20,9 @@
 - **[Nome do Projeto](https://github.com/link-do-projeto)**: Breve descrição do projeto.
 -->
 
-## Experiência
-- Renasoft Sistemas - Desenvolvedor Desktop Delphi
-  - Responsabilidades e conquistas
-
-## Educação
-- **Universidad**
-- **Universidade Y** - Bacharel em Ciência da Computação (Ano de início - Ano de término)
-
 ## Contato
 <div>
   <a href="https://www.linkedin.com/in/alexanderwoliveira/">
-    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
   </a>
 </div>
