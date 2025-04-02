@@ -1,5 +1,4 @@
-##
-<strong>Welcome!</strong>
+<h2><strong>Welcome!</strong></h2>
 
 <div>
   <p>Informações sobre o Dev:</p>
