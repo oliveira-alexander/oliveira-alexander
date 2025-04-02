@@ -1,4 +1,4 @@
-<h2><strong>Welcome!</strong></h2>
+<h2 style="text-align: center;"><strong>Welcome!</strong></h2>
 
 <div>
   <p>Informações sobre o Dev:</p>
