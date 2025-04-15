@@ -1,5 +1,9 @@
 <h2 align="center"><strong>Welcome!</strong></h2>
 
+<div>Sobre o Dev:</div>
+<p>Sou apaixonado por tecnologia e desenvolvimento de software.</p>
+<p>Tenho experiência com Delphi no setor de automação comercial e agronegócio, utilizando tecnologias como FortesReport, FastReport, e bibliotecas como ACBr, </p>
+
 <p>Informações sobre o Dev:
   <ul>
     <li> 👨🏻‍💻 Apaixonado por desenvolvimento de software </li>
@@ -26,7 +30,7 @@
   <p>
     <strong>Desenvolvimento Web Back-end:</strong>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
   </p>
   <p>
   <p>
