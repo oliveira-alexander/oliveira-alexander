@@ -1,6 +1,6 @@
 <h2 align="center"><strong>Welcome!</strong></h2>
 
-<div>Sobre o Dev:</div>
+<h3>Sobre o Dev:</h3>
 <p>Sou apaixonado por tecnologia e desenvolvimento de software.</p>
 <p>Tenho experiência com Delphi no setor de automação comercial e agronegócio, utilizando tecnologias como FortesReport, FastReport, e bibliotecas como ACBr, </p>
 <p>⚙️ Atualmente backend / desktop </p>
