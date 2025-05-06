@@ -2,7 +2,7 @@
 
 <h3>Sobre o Dev:</h3>
 <p>Apaixonado por tecnologia, busco sempre aprender e me desenvolver com novas práticas e metodologias.</p>
-<p>Atualmente desenvolvedor Delphi (Desktop) e estudante de .NET Core (Web)</p>
+<p>Atualmente desenvolvedor Delphi (Desktop) e .NET Core (Web)</p>
 
 ## Estatísticas do GitHub
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira-alexander&layout=donut-vertical&bg_color=00000000&theme=dracula&align=center)](https://github.com/anuraghazra/github-readme-stats)
