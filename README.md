@@ -1,9 +1,8 @@
 <h2 align="center"><strong>Welcome!</strong></h2>
 
 <h3>Sobre o Dev:</h3>
-<p>Sou apaixonado por tecnologia e desenvolvimento de software.</p>
-<p>Tenho experiência com Delphi no setor de automação comercial e agronegócio, utilizando tecnologias como FortesReport, FastReport, e bibliotecas como ACBr</p>
-<p>⚙️ Atualmente backend / desktop </p>
+<p>Apaixonado por tecnologia, busco sempre aprender e me desenvolver com novas práticas e metodologias.</p>
+<p>Atualmente desenvolvedor Delphi (Desktop) e estudante de .NET Core (Web)</p>
 
 ## Estatísticas do GitHub
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira-alexander&layout=donut-vertical&bg_color=00000000&theme=dracula&align=center)](https://github.com/anuraghazra/github-readme-stats)
