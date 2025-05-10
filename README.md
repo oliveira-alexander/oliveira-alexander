@@ -3,7 +3,7 @@
 </div>
 <div>
   <h5> 🧑🏻‍💻 Desenvolvedor Backend / Desktop 🌐 </h5>
-  <p>Sou Alexander, desenvolvedor com foco em backend e desktop, que ama tecnologia e games.</p>
+  <p>Sou Alexander, desenvolvedor com foco em backend e desktop</p>
   <br>
   <p><strong>Informações / Curiosidades:</strong></p>
   <ul>
