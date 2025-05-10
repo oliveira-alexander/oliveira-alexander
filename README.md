@@ -12,7 +12,6 @@
     <li>☕ Amo café (transformando cafeína em código)</li>
     <li>🎮 PC Gamer</li>
   </ul>
-  <br/>
 </div>
 <div>
   <h3>Tecnologias e Ferramentas:</h3>
