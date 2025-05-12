@@ -9,8 +9,6 @@
   <ul>
     <li>📚 Graduado em Gestão da Tecnologia da Informação pela UNINTER </li>
     <li>📚 Pós graduado em Engenharia de Software pela Universidade das Américas Descomplica</li>
-    <li>☕ Amo café (transformando cafeína em código)</li>
-    <li>🎮 PC Gamer</li>
   </ul>
 </div>
 <div>
