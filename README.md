@@ -28,12 +28,6 @@
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oliveira-alexander&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveira-alexander&layout=compact&langs_count=8&theme=dracula)
-
----
-
 ## 🧠 Atualmente estudando
 - Java + Spring Boot
 - JPA + Lombok
