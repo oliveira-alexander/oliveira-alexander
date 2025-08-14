@@ -1,7 +1,7 @@
 # Opa! Alexander Oliveira aqui! 🤘🏻
 
 🎓 Graduado em Gestão da Tecnologia da Informação  
-🧠 Pós-graduando em Engenharia de Software  
+🧠 Pós-graduado em Engenharia de Software  
 💻 Apaixonado por desenvolvimento — focado em **Delphi** e **Java**  
 
 ---
@@ -14,6 +14,13 @@
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
+- Frontend<br>
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=plastic)
+![CSS Badge](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=plastic)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=plastic)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=plastic)
+![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=plastic)
 
 - Desktop<br>
 ![Delphi](https://img.shields.io/badge/-Delphi-red?style=flat-square&logo=delphi)
@@ -33,6 +40,8 @@
 - JPA + Lombok
 - Docker
 - Clean Architecture
+- Angular
+- Fullstack development
 
 ---
  
